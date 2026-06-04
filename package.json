@@ -1,6 +1,6 @@
 {
   "name": "overtchat",
-  "version": "0.1.32",
+  "version": "0.1.33",
   "description": "A simpler self-hosted alternative to Open WebUI. Bring your own API keys or local models. Native Android and iOS clients.",
   "main": "src/index.ts",
   "scripts": {
